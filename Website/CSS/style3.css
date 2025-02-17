@@ -1,0 +1,75 @@
+.contact,
+.contact * {
+  box-sizing: border-box;
+}
+.contact {
+  background: #861b1b;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 104px;
+  top: 32px;
+  width: 159px;
+  height: 39px;
+}
+.homepage {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 947px;
+  top: 32px;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 1146px;
+  top: 32px;
+}
+.contact2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 1272px;
+  top: 32px;
+}
+.reach-out-to-the-course-team-for-support-or-inquiries {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 188px;
+  top: 356px;
+  width: 1066px;
+  height: 118px;
+}
+.contact-us {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+  position: absolute;
+  left: 184px;
+  top: 272px;
+  width: 1066px;
+}

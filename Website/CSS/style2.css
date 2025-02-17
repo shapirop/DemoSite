@@ -1,0 +1,75 @@
+.about,
+.about * {
+  box-sizing: border-box;
+}
+.about {
+  background: #861b1b;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 104px;
+  top: 32px;
+  width: 159px;
+  height: 39px;
+}
+.homepage {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 947px;
+  top: 32px;
+}
+.about2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 1146px;
+  top: 32px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 1272px;
+  top: 32px;
+}
+.bmgt-407-information-systems-projects {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+  position: absolute;
+  left: 188px;
+  top: 319px;
+  width: 1066px;
+}
+.short-description-about-the-course {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 268px;
+  top: 497px;
+  width: 906px;
+  height: 118px;
+}
